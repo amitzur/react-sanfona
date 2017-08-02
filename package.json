@@ -2,7 +2,7 @@
   "name": "react-sanfona",
   "version": "0.2.3",
   "description": "React accessible accordion component",
-  "main": "./src/index.js",
+  "main": "./dist-modules/index.js",
   "scripts": {
     "bundle-demo": "webpack --config webpack.config.demo.js",
     "bundle-dist": "webpack --config webpack.config.dist.js",
